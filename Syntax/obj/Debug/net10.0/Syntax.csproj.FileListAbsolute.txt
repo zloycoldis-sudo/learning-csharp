@@ -1,0 +1,14 @@
+C:\Programming\C# projects\CSharp_Learning\Syntax\bin\Debug\net10.0\Syntax.exe
+C:\Programming\C# projects\CSharp_Learning\Syntax\bin\Debug\net10.0\Syntax.deps.json
+C:\Programming\C# projects\CSharp_Learning\Syntax\bin\Debug\net10.0\Syntax.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Syntax\bin\Debug\net10.0\Syntax.dll
+C:\Programming\C# projects\CSharp_Learning\Syntax\bin\Debug\net10.0\Syntax.pdb
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.dll
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\refint\Syntax.dll
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.pdb
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\Syntax.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Syntax\obj\Debug\net10.0\ref\Syntax.dll
