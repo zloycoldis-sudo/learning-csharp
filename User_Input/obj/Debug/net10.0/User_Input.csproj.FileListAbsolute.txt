@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\User_Input\bin\Debug\net10.0\User_Input.exe
+C:\Programming\C# projects\CSharp_Learning\User_Input\bin\Debug\net10.0\User_Input.deps.json
+C:\Programming\C# projects\CSharp_Learning\User_Input\bin\Debug\net10.0\User_Input.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\User_Input\bin\Debug\net10.0\User_Input.dll
+C:\Programming\C# projects\CSharp_Learning\User_Input\bin\Debug\net10.0\User_Input.pdb
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.dll
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\refint\User_Input.dll
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.pdb
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\User_Input.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\User_Input\obj\Debug\net10.0\ref\User_Input.dll
