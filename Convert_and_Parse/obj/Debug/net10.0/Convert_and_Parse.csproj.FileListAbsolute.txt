@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\bin\Debug\net10.0\Convert_and_Parse.exe
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\bin\Debug\net10.0\Convert_and_Parse.deps.json
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\bin\Debug\net10.0\Convert_and_Parse.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\bin\Debug\net10.0\Convert_and_Parse.dll
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\bin\Debug\net10.0\Convert_and_Parse.pdb
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.dll
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\refint\Convert_and_Parse.dll
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.pdb
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\Convert_and_Parse.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Convert_and_Parse\obj\Debug\net10.0\ref\Convert_and_Parse.dll
