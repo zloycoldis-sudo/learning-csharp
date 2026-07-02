@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\bin\Debug\net10.0\Currency_calculator.exe
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\bin\Debug\net10.0\Currency_calculator.deps.json
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\bin\Debug\net10.0\Currency_calculator.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\bin\Debug\net10.0\Currency_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\bin\Debug\net10.0\Currency_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\refint\Currency_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\Currency_calculator.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Currency_calculator\obj\Debug\net10.0\ref\Currency_calculator.dll
