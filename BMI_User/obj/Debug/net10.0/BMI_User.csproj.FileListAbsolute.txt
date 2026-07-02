@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\BMI_User\bin\Debug\net10.0\BMI_User.exe
+C:\Programming\C# projects\CSharp_Learning\BMI_User\bin\Debug\net10.0\BMI_User.deps.json
+C:\Programming\C# projects\CSharp_Learning\BMI_User\bin\Debug\net10.0\BMI_User.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\BMI_User\bin\Debug\net10.0\BMI_User.dll
+C:\Programming\C# projects\CSharp_Learning\BMI_User\bin\Debug\net10.0\BMI_User.pdb
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.dll
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\refint\BMI_User.dll
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.pdb
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\BMI_User.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\BMI_User\obj\Debug\net10.0\ref\BMI_User.dll
