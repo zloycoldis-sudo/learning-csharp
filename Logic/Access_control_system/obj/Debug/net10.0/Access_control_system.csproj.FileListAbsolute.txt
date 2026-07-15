@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\bin\Debug\net10.0\Access_control_system.exe
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\bin\Debug\net10.0\Access_control_system.deps.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\bin\Debug\net10.0\Access_control_system.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\bin\Debug\net10.0\Access_control_system.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\bin\Debug\net10.0\Access_control_system.pdb
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\refint\Access_control_system.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.pdb
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\Access_control_system.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Access_control_system\obj\Debug\net10.0\ref\Access_control_system.dll

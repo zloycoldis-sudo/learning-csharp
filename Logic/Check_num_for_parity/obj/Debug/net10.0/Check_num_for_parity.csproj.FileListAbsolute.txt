@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\bin\Debug\net10.0\Check_num_for_parity.exe
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\bin\Debug\net10.0\Check_num_for_parity.deps.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\bin\Debug\net10.0\Check_num_for_parity.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\bin\Debug\net10.0\Check_num_for_parity.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\bin\Debug\net10.0\Check_num_for_parity.pdb
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\refint\Check_num_for_parity.dll
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.pdb
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\Check_num_for_parity.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Logic\Check_num_for_parity\obj\Debug\net10.0\ref\Check_num_for_parity.dll
