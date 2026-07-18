@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\bin\Debug\net10.0\Weekday_calculator.exe
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\bin\Debug\net10.0\Weekday_calculator.deps.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\bin\Debug\net10.0\Weekday_calculator.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\bin\Debug\net10.0\Weekday_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\bin\Debug\net10.0\Weekday_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\refint\Weekday_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\Weekday_calculator.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Weekday_calculator\obj\Debug\net10.0\ref\Weekday_calculator.dll

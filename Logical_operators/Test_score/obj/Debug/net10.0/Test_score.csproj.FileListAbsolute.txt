@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\bin\Debug\net10.0\Test_score.exe
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\bin\Debug\net10.0\Test_score.deps.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\bin\Debug\net10.0\Test_score.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\bin\Debug\net10.0\Test_score.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\bin\Debug\net10.0\Test_score.pdb
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\refint\Test_score.dll
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.pdb
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\Test_score.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Logical_operators\Test_score\obj\Debug\net10.0\ref\Test_score.dll
