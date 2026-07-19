@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programming\\C# projects\\CSharp_Learning\\Day2_Variables\\Day2_Variables.csproj": {}
+    "C:\\Programming\\C# projects\\CSharp_Learning\\Calculator1\\Calculator1.csproj": {}
   },
   "projects": {
-    "C:\\Programming\\C# projects\\CSharp_Learning\\Day2_Variables\\Day2_Variables.csproj": {
+    "C:\\Programming\\C# projects\\CSharp_Learning\\Calculator1\\Calculator1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programming\\C# projects\\CSharp_Learning\\Day2_Variables\\Day2_Variables.csproj",
-        "projectName": "Day2_Variables",
-        "projectPath": "C:\\Programming\\C# projects\\CSharp_Learning\\Day2_Variables\\Day2_Variables.csproj",
+        "projectUniqueName": "C:\\Programming\\C# projects\\CSharp_Learning\\Calculator1\\Calculator1.csproj",
+        "projectName": "Calculator1",
+        "projectPath": "C:\\Programming\\C# projects\\CSharp_Learning\\Calculator1\\Calculator1.csproj",
         "packagesPath": "C:\\Users\\zloyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Programming\\C# projects\\CSharp_Learning\\Day2_Variables\\obj\\",
+        "outputPath": "C:\\Programming\\C# projects\\CSharp_Learning\\Calculator1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zloyc\\AppData\\Roaming\\NuGet\\NuGet.Config"
