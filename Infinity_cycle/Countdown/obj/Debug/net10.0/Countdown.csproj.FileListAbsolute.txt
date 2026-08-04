@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\bin\Debug\net10.0\Countdown.exe
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\bin\Debug\net10.0\Countdown.deps.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\bin\Debug\net10.0\Countdown.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\bin\Debug\net10.0\Countdown.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\bin\Debug\net10.0\Countdown.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\refint\Countdown.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\Countdown.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Countdown\obj\Debug\net10.0\ref\Countdown.dll

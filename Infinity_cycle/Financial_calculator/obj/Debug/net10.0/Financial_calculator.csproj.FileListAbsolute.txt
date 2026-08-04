@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\bin\Debug\net10.0\Financial_calculator.exe
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\bin\Debug\net10.0\Financial_calculator.deps.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\bin\Debug\net10.0\Financial_calculator.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\bin\Debug\net10.0\Financial_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\bin\Debug\net10.0\Financial_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\refint\Financial_calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\Financial_calculator.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Financial_calculator\obj\Debug\net10.0\ref\Financial_calculator.dll

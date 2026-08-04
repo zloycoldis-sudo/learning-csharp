@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\bin\Debug\net10.0\Unblock_console.exe
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\bin\Debug\net10.0\Unblock_console.deps.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\bin\Debug\net10.0\Unblock_console.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\bin\Debug\net10.0\Unblock_console.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\bin\Debug\net10.0\Unblock_console.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\refint\Unblock_console.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\Unblock_console.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Unblock_console\obj\Debug\net10.0\ref\Unblock_console.dll

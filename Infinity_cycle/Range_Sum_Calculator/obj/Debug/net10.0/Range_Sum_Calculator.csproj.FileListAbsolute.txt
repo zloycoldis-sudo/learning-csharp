@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\bin\Debug\net10.0\Range_Sum_Calculator.exe
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\bin\Debug\net10.0\Range_Sum_Calculator.deps.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\bin\Debug\net10.0\Range_Sum_Calculator.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\bin\Debug\net10.0\Range_Sum_Calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\bin\Debug\net10.0\Range_Sum_Calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\refint\Range_Sum_Calculator.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\Range_Sum_Calculator.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\Range_Sum_Calculator\obj\Debug\net10.0\ref\Range_Sum_Calculator.dll
