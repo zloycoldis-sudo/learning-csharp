@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\bin\Debug\net10.0\SumOf_even_num.exe
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\bin\Debug\net10.0\SumOf_even_num.deps.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\bin\Debug\net10.0\SumOf_even_num.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\bin\Debug\net10.0\SumOf_even_num.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\bin\Debug\net10.0\SumOf_even_num.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\refint\SumOf_even_num.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\SumOf_even_num.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\SumOf_even_num\obj\Debug\net10.0\ref\SumOf_even_num.dll

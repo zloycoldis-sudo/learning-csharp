@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\bin\Debug\net10.0\Multiplication_table.exe
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\bin\Debug\net10.0\Multiplication_table.deps.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\bin\Debug\net10.0\Multiplication_table.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\bin\Debug\net10.0\Multiplication_table.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\bin\Debug\net10.0\Multiplication_table.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\refint\Multiplication_table.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\Multiplication_table.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Multiplication_table\obj\Debug\net10.0\ref\Multiplication_table.dll

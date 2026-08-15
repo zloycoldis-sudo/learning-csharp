@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\bin\Debug\net10.0\Find_first_divisor.exe
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\bin\Debug\net10.0\Find_first_divisor.deps.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\bin\Debug\net10.0\Find_first_divisor.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\bin\Debug\net10.0\Find_first_divisor.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\bin\Debug\net10.0\Find_first_divisor.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\refint\Find_first_divisor.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\Find_first_divisor.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_For\Find_first_divisor\obj\Debug\net10.0\ref\Find_first_divisor.dll
