@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\bin\Debug\net10.0\rectangle.exe
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\bin\Debug\net10.0\rectangle.deps.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\bin\Debug\net10.0\rectangle.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\bin\Debug\net10.0\rectangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\bin\Debug\net10.0\rectangle.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\refint\rectangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\rectangle.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\rectangle\obj\Debug\net10.0\ref\rectangle.dll

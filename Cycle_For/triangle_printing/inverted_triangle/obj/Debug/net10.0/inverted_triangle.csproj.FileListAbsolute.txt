@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\bin\Debug\net10.0\inverted_triangle.exe
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\bin\Debug\net10.0\inverted_triangle.deps.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\bin\Debug\net10.0\inverted_triangle.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\bin\Debug\net10.0\inverted_triangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\bin\Debug\net10.0\inverted_triangle.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\refint\inverted_triangle.dll
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.pdb
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\inverted_triangle.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Cycle_for\triangle_printing\inverted_triangle\obj\Debug\net10.0\ref\inverted_triangle.dll
