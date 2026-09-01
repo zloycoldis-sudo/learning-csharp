@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\bin\Debug\net10.0\Find_MinAndMax.exe
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\bin\Debug\net10.0\Find_MinAndMax.deps.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\bin\Debug\net10.0\Find_MinAndMax.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\bin\Debug\net10.0\Find_MinAndMax.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\bin\Debug\net10.0\Find_MinAndMax.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\refint\Find_MinAndMax.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\Find_MinAndMax.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Find_MinAndMax\obj\Debug\net10.0\ref\Find_MinAndMax.dll

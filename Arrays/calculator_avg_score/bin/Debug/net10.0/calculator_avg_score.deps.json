@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "calculator_avg_score/1.0.0": {
+        "runtime": {
+          "calculator_avg_score.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculator_avg_score/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

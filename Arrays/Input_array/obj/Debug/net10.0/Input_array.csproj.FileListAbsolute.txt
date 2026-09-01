@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\bin\Debug\net10.0\Input_array.exe
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\bin\Debug\net10.0\Input_array.deps.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\bin\Debug\net10.0\Input_array.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\bin\Debug\net10.0\Input_array.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\bin\Debug\net10.0\Input_array.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\refint\Input_array.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\Input_array.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Input_array\obj\Debug\net10.0\ref\Input_array.dll
