@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Calculator1\bin\Debug\net10.0\Calculator1.exe
+C:\Programming\C# projects\CSharp_Learning\Calculator1\bin\Debug\net10.0\Calculator1.deps.json
+C:\Programming\C# projects\CSharp_Learning\Calculator1\bin\Debug\net10.0\Calculator1.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Calculator1\bin\Debug\net10.0\Calculator1.dll
+C:\Programming\C# projects\CSharp_Learning\Calculator1\bin\Debug\net10.0\Calculator1.pdb
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.dll
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\refint\Calculator1.dll
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.pdb
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\Calculator1.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Calculator1\obj\Debug\net10.0\ref\Calculator1.dll
