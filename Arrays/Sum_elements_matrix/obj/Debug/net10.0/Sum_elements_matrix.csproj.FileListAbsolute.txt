@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\bin\Debug\net10.0\Sum_elements_matrix.exe
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\bin\Debug\net10.0\Sum_elements_matrix.deps.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\bin\Debug\net10.0\Sum_elements_matrix.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\bin\Debug\net10.0\Sum_elements_matrix.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\bin\Debug\net10.0\Sum_elements_matrix.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\refint\Sum_elements_matrix.dll
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.pdb
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\Sum_elements_matrix.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Arrays\Sum_elements_matrix\obj\Debug\net10.0\ref\Sum_elements_matrix.dll

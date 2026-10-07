@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sum_elements_matrix/1.0.0": {
+        "runtime": {
+          "Sum_elements_matrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum_elements_matrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
