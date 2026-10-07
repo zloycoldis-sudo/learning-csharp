@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumOf_even_numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7fb6c1fcdf95c66225942ae62672fa89776aae1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af1b5e996bcb857497dccf49ac921323d818c768")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumOf_even_numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumOf_even_numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
