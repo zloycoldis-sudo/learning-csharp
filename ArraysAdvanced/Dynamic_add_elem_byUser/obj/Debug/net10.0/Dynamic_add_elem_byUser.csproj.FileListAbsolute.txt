@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\bin\Debug\net10.0\Dynamic_add_elem_byUser.exe
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\bin\Debug\net10.0\Dynamic_add_elem_byUser.deps.json
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\bin\Debug\net10.0\Dynamic_add_elem_byUser.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\bin\Debug\net10.0\Dynamic_add_elem_byUser.dll
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\bin\Debug\net10.0\Dynamic_add_elem_byUser.pdb
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.dll
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\refint\Dynamic_add_elem_byUser.dll
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.pdb
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\Dynamic_add_elem_byUser.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\ArraysAdvanced\Dynamic_add_elem_byUser\obj\Debug\net10.0\ref\Dynamic_add_elem_byUser.dll

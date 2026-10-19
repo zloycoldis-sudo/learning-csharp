@@ -1,0 +1,15 @@
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\bin\Debug\net10.0\guess_the_number.exe
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\bin\Debug\net10.0\guess_the_number.deps.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\bin\Debug\net10.0\guess_the_number.runtimeconfig.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\bin\Debug\net10.0\guess_the_number.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\bin\Debug\net10.0\guess_the_number.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.AssemblyInfoInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.AssemblyInfo.cs
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.csproj.CoreCompileInputs.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.sourcelink.json
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\refint\guess_the_number.dll
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.pdb
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\guess_the_number.genruntimeconfig.cache
+C:\Programming\C# projects\CSharp_Learning\Infinity_cycle\guess_the_number\obj\Debug\net10.0\ref\guess_the_number.dll

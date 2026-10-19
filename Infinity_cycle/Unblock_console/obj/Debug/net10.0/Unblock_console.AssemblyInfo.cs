@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unblock_console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb251a891925dd9cc5d2d666c619f1331f892bb1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c02eac09accd562caa8865c321059dba982e9cbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unblock_console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unblock_console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
